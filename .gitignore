@@ -1,0 +1,4 @@
+node_modules/
+public/*.html
+app-old.js
+server-notas.js
